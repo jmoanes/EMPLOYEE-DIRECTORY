@@ -62,7 +62,7 @@
 ### 📄 PAGINATION
 - Configurable items per page
 - Options: 5, 10, 25, 50, 100
-- First/Previous/Next/Last buttons
+- First/Previous/Next/Last buttons 
 - Direct page navigation
 - Current range display
 - Total count visible

@@ -1,17 +1,17 @@
-# 👨‍💼 Employee Management System - React CRUD App
+#  Employee Management System - React CRUD App
 
 A complete CRUD (Create, Read, Update, Delete) web application built with React and modern JavaScript.
 
-## ✨ Features
+##  Features
 
 ### Authentication & Authorization
-- 🔐 **User Sign Up** - Create new accounts with email and password
-- 🔑 **User Sign In** - Secure login with validation
-- 👑 **Admin-Only Access** - Only admin users can view the employee dashboard
-- 🚪 **Sign Out** - Secure logout functionality
-- 🛡️ **Protected Routes** - Dashboard protected from unauthorized access
-- 💾 **Session Persistence** - Stay logged in across browser sessions
-- 👤 **User Roles** - Admin and User role support
+-  **User Sign Up** - Create new accounts with email and password
+-  **User Sign In** - Secure login with validation
+-  **Admin-Only Access** - Only admin users can view the employee dashboard
+-  **Sign Out** - Secure logout functionality
+-  **Protected Routes** - Dashboard protected from unauthorized access
+-  **Session Persistence** - Stay logged in across browser sessions
+-  **User Roles** - Admin and User role support
 
 ### Core CRUD Operations
 - **Create**: Add new employees with form validation
@@ -20,17 +20,17 @@ A complete CRUD (Create, Read, Update, Delete) web application built with React 
 - **Delete**: Remove employees with confirmation dialog
 
 ### Additional Features
-- 🔐 **Authentication System** - Sign up, sign in, and role-based access
-- 👑 **Admin Dashboard** - Only admin users can access employee management
-- 👤 **User Profile Display** - Shows logged-in user info and role
-- 🚪 **Logout Functionality** - Secure sign out from any page
-- 📊 Real-time statistics dashboard
-- 💾 Data persistence using localStorage
-- ✅ Form validation with error messages
-- 🎨 Beautiful gradient UI design
-- 📱 Fully responsive (mobile & desktop)
-- 🔔 Success/error alert notifications
-- 🎯 Unique ID generation for each employee
+-  **Authentication System** - Sign up, sign in, and role-based access
+-  **Admin Dashboard** - Only admin users can access employee management
+-  **User Profile Display** - Shows logged-in user info and role
+-  **Logout Functionality** - Secure sign out from any page
+-  Real-time statistics dashboard
+-  Data persistence using localStorage
+-  Form validation with error messages
+-  Beautiful gradient UI design
+-  Fully responsive (mobile & desktop)
+-  Success/error alert notifications
+-  Unique ID generation for each employee
 - 🎨 Modern, clean CSS styling
 - 🚀 React Router for navigation
 - 🔍 **Search & Filter** - Real-time search across all fields
@@ -220,7 +220,7 @@ Two demo accounts are pre-created:
 - Confirmation dialog before deletion
 
 ### Import from CSV
-- Click "📤 Import CSV" button
+- Click " Import CSV" button
 - Select a CSV file with employee data
 - Format: Name, Email, Role, Department
 - Automatically generates unique IDs
@@ -239,7 +239,7 @@ Two demo accounts are pre-created:
 - Removes all interactive elements
 - Shows only employee table with borders
 
-## 🎨 Styling
+##  Styling
 
 The app features:
 - Beautiful gradient backgrounds
@@ -256,14 +256,14 @@ The app is fully responsive with breakpoints for:
 - Tablet (768px - 480px)
 - Mobile (< 480px)
 
-## 🔄 State Management
+##  State Management
 
 - Uses React's `useState` hook for local state
 - `useEffect` for side effects (localStorage sync)
 - Props for component communication
 - No external state management library needed
 
-## 🌟 Optional Enhancements
+##  Optional Enhancements
 
 ### Firebase Integration (Not included, but easy to add)
 
@@ -273,18 +273,18 @@ To add Firebase:
 3. Replace localStorage operations with Firestore operations
 4. Enable real-time sync
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this project and submit pull requests!
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this project for learning or production.
 
-## 👨‍💻 Author
+##  Author
 
-Built with ❤️ using React and modern JavaScript
+Built with  using React and modern JavaScript
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding! **
